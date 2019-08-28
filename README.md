@@ -1,2 +1,1 @@
-# wheelchair_navigation
-Affordable Smart Wheelchair Navigation team repository
+# Affordable Smart Wheelchair Navigation Team Repository at UCSD
