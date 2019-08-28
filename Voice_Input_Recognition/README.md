@@ -1,6 +1,6 @@
 # Voice Input Recognition
 #### Implementation of Google Speech in order to obtain voice input commands from the user; uses Robot Operating System
-in order to publish information (Location Name, Coordinates) to the navigation stack. 
+#### in order to publish information (Location Name, Coordinates) to the navigation stack. 
 
 ## Requirements
 #### Hardware
