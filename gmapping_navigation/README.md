@@ -39,9 +39,11 @@ then add the line under the second node
 ```
 <param name="base_frame" value="base_link" />
 ```
-install gmapping_navigation package
+install gmapping_navigation package, go to /gmapping_navigation create an empty include package
 ```
 git clone https://github.com/YuliangCai/gmapping_navigation.git
+cd gmapping_navigation
+mkdir include
 cd ..
 catkin_make
 ```
