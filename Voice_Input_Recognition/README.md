@@ -45,6 +45,17 @@ If testing the Input Program without ROS, open terminal and
 python3 gspeech_input.py
 ```
 
+else make a catkin workspace with rospy as a dependency, then go to src and put gspeech_input and gspeech_handler into it
+```
+cd
+mkdir ~/workspacename
+cd /workspacename
+mkdir src
+catkin_make
+cd src
+catkin_make
+```
+
 Open 3 terminals using the shortcut:  
 ``` 
 Ctr + Shift + n 
@@ -65,6 +76,6 @@ In the third terminal, run the handler (interprets user input):
 Make sure to be in the directory: */opt/ros/kinetic/share/rosserial_python*  
 Run: 
 ```
-rosrun rosserial_python gspee_handler.py
+rosrun rosserial_python gspeech_handler.py
 ```
 
