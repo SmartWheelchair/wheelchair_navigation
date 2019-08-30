@@ -1,5 +1,7 @@
+![alt text](https://github.com/SmartWheelchair/Systems/blob/master/Wheelchair%203D%20Part%20Images/UCSD_Wheelchair_Team_Logo.png "Logo")
+
 # Voice Input Recognition
-#### Implementation of Google Speech in order to obtain voice input commands from the user; uses Robot Operating System in order to publish information (Location Name, Coordinates) to the navigation stack. 
+ **Implementation of Google Speech in order to obtain voice input commands from the user; uses Robot Operating System (ROS) in order to publish information (Location Name, Coordinates) to the navigation stack.**
 
 ## Requirements
 #### Hardware
@@ -10,7 +12,7 @@
 - Speech Recognition Package
 - PyAudio Package
 - Pip or Pip3
-- Recommended to update Python to latest Version
+- Recommended to update Python to latest Version (3.7)
 
 ## Installation
 install SpeechRecognition Package
