@@ -4,5 +4,5 @@
 # About the Program
 
 ![alt text]
-(https://i.imgur.com/5I27vpf.png)
+(https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/fsm.png?raw=true)
 The finite state machine is meant to handle the 
