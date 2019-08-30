@@ -16,10 +16,13 @@
 
   <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/ASUS_xtion.png" width="500"> 
   
-  The result of gmapping we got 
+  The result of gmapping we get 
   
   <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/gmapping.png" width="500">
+  
+  The navigation result we get
 
+  <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/path_planning.png" width="500">
 ## Contact
 **Website:** http://smartwheelchair.eng.ucsd.edu/  
 **Phone:** (619) 836-8052  
