@@ -38,5 +38,28 @@ Create Dictionary in order to store Location and Odometry Information
 ./Create_Dictionary.py
 ```
 
+## Running the Program
 
+Open 3 terminals using the shortcut:  
+``` 
+Ctr + Shift + n 
+```
 
+In one of the terminals, run:
+``` 
+roscore
+```
+
+In the second terminal, run the handler (interprets user input):  
+Make sure to be in the directory: */opt/ros/kinetic/share/rosserial_python*  
+Run: 
+```
+rosrun rosserial_python gspee_handler.py
+```
+
+In the third terminal, run the input (gets user input):  
+Make sure to be in the directory: */desktop/ros/scripts*  
+Run:
+```
+rosrun rosserial_python gspeech_input.py
+```
