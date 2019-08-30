@@ -40,6 +40,11 @@ Create Dictionary in order to store Location and Odometry Information
 
 ## Running the Program
 
+If testing the Input Program without ROS, open terminal and
+```
+python3 gspeech_input.py
+```
+
 Open 3 terminals using the shortcut:  
 ``` 
 Ctr + Shift + n 
