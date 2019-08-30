@@ -2,3 +2,7 @@
 
 
 # About the Program
+
+![alt text]
+(https://i.imgur.com/5I27vpf.png)
+The finite state machine is meant to handle the 
