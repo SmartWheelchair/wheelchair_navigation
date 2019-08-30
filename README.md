@@ -7,6 +7,9 @@
   Our goal is to build a processor-efficient program to allow for autonomous navigation throughout a user's house. We use Simultaneous Localization and Mapping (SLAM) to map and navigate through a room using only a RGB-D Camera. We aim to keep it easy to install and able to run on an inexpensive Single-Board Computer. Implementing autonomous navigation allows the users to easily navigate to various preset locations within their house while avoiding any obstacles.
   
 ## Implementation
+  We are currently using a finite state machine which is meant to handle and organize the entire Navigation Stack and have different states:     start, logging, mapping, navigation ready, and navigating.
+
+  <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/fsm.png" width="500">
   
   We are currently using the UDOO x86 Advanced Plus Single-Board Computer 
   
