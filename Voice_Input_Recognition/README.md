@@ -46,20 +46,20 @@ Ctr + Shift + n
 ```
 
 In one of the terminals, run:
+Make sure to be in the directory: */desktop/ros/scripts*  
 ``` 
 roscore
 ```
-
-In the second terminal, run the handler (interprets user input):  
+In the second terminal, run the input (gets user input):  
+Make sure to be in the same directory as above  
+Run:  
+```
+rosrun rosserial_python gspeech_input.py
+```
+In the third terminal, run the handler (interprets user input):  
 Make sure to be in the directory: */opt/ros/kinetic/share/rosserial_python*  
 Run: 
 ```
 rosrun rosserial_python gspee_handler.py
 ```
 
-In the third terminal, run the input (gets user input):  
-Make sure to be in the directory: */desktop/ros/scripts*  
-Run:
-```
-rosrun rosserial_python gspeech_input.py
-```
