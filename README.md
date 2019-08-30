@@ -16,7 +16,9 @@
 
   <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/ASUS_xtion.png" width="500"> 
   
-
+  The result of gmapping we got 
+  
+  <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/gmapping.png" width="500">
 
 ## Contact
 **Website:** http://smartwheelchair.eng.ucsd.edu/  
