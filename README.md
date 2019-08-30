@@ -23,6 +23,7 @@
   The navigation result we get
 
   <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/path_planning.png" width="500">
+  
 ## Contact
 **Website:** http://smartwheelchair.eng.ucsd.edu/  
 **Phone:** (619) 836-8052  
