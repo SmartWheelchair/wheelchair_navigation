@@ -45,7 +45,7 @@ Open 3 terminals using the shortcut:
 Ctr + Shift + n 
 ```
 
-In one of the terminals, run:
+In one of the terminals, run the following:  
 Make sure to be in the directory: */desktop/ros/scripts*  
 ``` 
 roscore
