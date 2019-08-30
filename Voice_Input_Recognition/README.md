@@ -2,6 +2,8 @@
 
 # Voice Input Recognition
  **Implementation of Google Speech in order to obtain voice input commands from the user; uses Robot Operating System (ROS) in order to publish information (Location Name, Coordinates) to the navigation stack.**
+ 
+![Image](https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/Voice%20Input.png)
 
 ## Requirements
 #### Hardware
