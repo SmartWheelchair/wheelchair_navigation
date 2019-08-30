@@ -2,3 +2,15 @@
 
 
 # About the setup scripts
+
+Steps to setup:
+
+Add executable commands to the ubuntu script
+```
+chmod +x script_name
+```
+
+Run the script in a new terminal 
+```
+./script_name
+```
