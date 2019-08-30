@@ -1,1 +1,3 @@
-# Affordable Smart Wheelchair Navigation Team Repository at UCSD
+![alt text](https://github.com/SmartWheelchair/Systems/blob/master/Wheelchair%203D%20Part%20Images/UCSD_Wheelchair_Team_Logo.png "Logo")
+
+# The Navigation Team
