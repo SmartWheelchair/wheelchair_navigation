@@ -3,6 +3,6 @@
 
 # About the Program
 
-![alt text]
-(https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/fsm.png?raw=true)
-The finite state machine is meant to handle the 
+![images](https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/fsm.png "images")
+The finite state machine is meant to handle the entire Navigation Stack and have different states: start, logging, mapping, navigation ready, and Navigating.
+
