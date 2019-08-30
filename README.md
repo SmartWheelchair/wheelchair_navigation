@@ -19,6 +19,10 @@
 
   <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/ASUS_xtion.png" width="500"> 
   
+  We are using gspeech and ROS in order to obtain the user's voice input
+  
+  <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/Voice%20Input.png" width="500">
+  
   The result of gmapping we get 
   
   <img src="https://github.com/SmartWheelchair/wheelchair_navigation/blob/master/Images/gmapping.png" width="500">
