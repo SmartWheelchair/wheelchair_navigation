@@ -1,3 +1,5 @@
+![alt text](https://github.com/SmartWheelchair/Systems/blob/master/Wheelchair%203D%20Part%20Images/UCSD_Wheelchair_Team_Logo.png "Logo")
+
 # gmapping_navigation
 #### The code is to implement 2-D navigation based on ROS navigation_stack, kobuki robot, and Asus proxion live RGB-D camera.The code will implement a fake-laser with the depth image data of camera.
 
